@@ -2,7 +2,7 @@
   "name": "React-junior-test",
   "version": "0.0.1",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --hot",
     "prettier": "prettier --write \"./src/**/*.js\""
   },
   "dependencies": {
